@@ -1,4 +1,5 @@
-# The C language course project during 2019 Spring Semester
+# C language course project (2019 Spring)
+The C language course project during 2019 Spring Semester
 
 |  |  |
 | ---: | :--- |
