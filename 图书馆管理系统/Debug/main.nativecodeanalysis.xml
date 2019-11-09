@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>e:\2019 spring\c language\programs\图书馆管理系统\图书馆管理系统</FILEPATH>
+      <FILENAME>response.h</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>Comfirm</FUNCTION>
+    <DECORATED>Comfirm</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

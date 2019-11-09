@@ -1,0 +1,214 @@
+﻿  Main.c
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Misc.h(147,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Misc.h(153,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Misc.h(154,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Misc.h(155,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Misc.h(156,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Misc.h(163,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Misc.h(166,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Misc.h(169,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Misc.h(170,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(124,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(131,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(164,32): warning C4146:  一元负运算符应用于无符号类型，结果仍为无符号类型
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(156,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(156,53): warning C4101:  “temp_fp”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(176,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(177,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(178,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(179,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(180,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(181,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(182,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(183,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(184,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(185,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(186,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(187,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(140,10): warning C4477:  “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(140,10): message :  请考虑在格式字符串中使用“%lld”
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(140,10): message :  请考虑在格式字符串中使用“%I64d”
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(120,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(144,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(152,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(228,10): warning C4477:  “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(228,10): message :  请考虑在格式字符串中使用“%lld”
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(228,10): message :  请考虑在格式字符串中使用“%I64d”
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(254,10): warning C4477:  “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(254,10): message :  请考虑在格式字符串中使用“%lld”
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(254,10): message :  请考虑在格式字符串中使用“%I64d”
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(207,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(233,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(200,12): warning C4101:  “code_info”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(201,11): warning C4101:  “temp_log”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(25,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(58,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(75,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(112,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(98,6): warning C4101:  “id_state”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(142,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(168,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(173,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(183,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(197,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(209,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(192,6): warning C4101:  “_choice”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(191,6): warning C4101:  “i”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(235,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(251,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(267,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(292,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(320,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\BookManageModule.c(391,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(41,35): warning C4146:  一元负运算符应用于无符号类型，结果仍为无符号类型
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(21,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(72,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(73,14): warning C4101:  “temp”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(98,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(120,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(162,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(154,7): warning C4101:  “_tempchar”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(194,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(200,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(210,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(223,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(235,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(220,6): warning C4101:  “_choice”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(218,6): warning C4101:  “i”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(218,9): warning C4101:  “Del_choice”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(249,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(261,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(283,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(298,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(308,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(357,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(373,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(381,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(295,7): warning C4101:  “gender_Str”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(295,22): warning C4101:  “temp_str”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(413,14): warning C4101:  “target”: 未引用的局部变量
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\ReaderManageModule.c(477,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(23,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(40,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(61,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(75,1): warning C4005:  “Print_ALL”: 宏重定义
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure_Print.h(43): message :  参见“Print_ALL”的前一个定义
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(99,54): warning C4047:  “函数”:“const short”与“void *”的间接级别不同
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(99,54): warning C4024:  “Structure_Print_Navigator”: 形参和实参 5 的类型不同
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(79,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(123,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(165,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(173,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(233,30): warning C4047:  “函数”:“int”与“void *”的间接级别不同
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(233,30): warning C4024:  “Log_Query”: 形参和实参 3 的类型不同
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(220,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(227,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(267,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Borrow_Return.c(271,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Advanced_Settings.c(24,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Advanced_Settings.c(30,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Advanced_Settings.c(36,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Advanced_Settings.c(57,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Main.c(77,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Main.c(79,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Main.c(88,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Main.c(90,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Main.c(99,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Main.c(100,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Main.c(121,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Main.c(125,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Main.c(129,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Main.c(136,1): warning C4996:  'fcloseall': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fcloseall. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2456): message :  参见“fcloseall”的声明
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Misc.h(172): warning C4172:  返回局部变量或临时变量的地址: str_t1
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(188): warning C4172:  返回局部变量或临时变量的地址: t_datetime
+C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\图书馆管理系统\Structure.h(152): warning C4715:  “Operation_Type_Convert”: 不是所有的控件路径都返回值
+  图书馆管理系统.vcxproj -> C:\Users\Lenovo\OneDrive\Study\2019 Spring\C language\Programs\图书馆管理系统\Debug\图书馆管理系统.exe
