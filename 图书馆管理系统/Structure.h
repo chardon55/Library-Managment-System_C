@@ -1,7 +1,21 @@
 ﻿#pragma once
 //					结构定义头文件						//
-//								<> with ♥ by 董岳	//
+//								<> with ♥ by 董岳 (dy55)	//
 //	2019-4-10, 4-11, 4-24, 4-27, 5-2, 5-5, 5-9, 5-15
+
+
+/*
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 
 
 #define NAME_MAXLEN 50					//书名最大长度
@@ -187,3 +201,15 @@ char* Custom_Datetime_Generator(time_t _target) {
 	strcat(t_datetime, Num_to_String(time_bunch.tm_sec, "02"));
 	return t_datetime;
 }
+
+
+/*
+ *
+ *
+ *
+ *
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ */

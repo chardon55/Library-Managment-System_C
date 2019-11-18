@@ -2,11 +2,25 @@
 //////////////////////////////////////////////////////////////////
 //																//
 //							图书管理模块							//
-//											<> with ♥ by 董岳	//
+//											<> with ♥ by 董岳 (dy55)	//
 //////////////////////////////////////////////////////////////////
 // 2019-4-10, 4-11, 4-12, 4-14, 4-15, 4-20, 4-21, 4-23, 5-1, 
 //		5-2, 5-3, 5-4, 5-5, 5-7, 5-8, 5-9, 5-13, 5-15, 5-16, 5-17
 //		5-18
+
+
+/*
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 
 extern long long Books_Type_Stock;
 
@@ -397,3 +411,15 @@ void Books_Manage_Choice() {
 		}
 	}
 }
+
+
+/*
+ *
+ *
+ *
+ *
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ */

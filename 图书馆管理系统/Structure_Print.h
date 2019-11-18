@@ -1,7 +1,21 @@
 ﻿#pragma once
 //					结构输出头文件						//
-//								<> with ♥ by 董岳	//
+//								<> with ♥ by 董岳 (dy55)	//
 //	2019-4-15, 4-21, 4-27, 4-28, 5-5, 5-8, 5-15
+
+
+/*
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 
 
 //净打印函数（图书）
@@ -254,3 +268,15 @@ void Selected_Print_Log(FILE* fp, BOOK_INFO* _book, READER_INFO* _reader) {
 		printf("\n\t\t共%ld条日志信息\n", log_count);
 	}
 }
+
+
+/*
+ *
+ *
+ *
+ *
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ */

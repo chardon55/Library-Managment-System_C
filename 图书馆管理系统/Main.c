@@ -2,7 +2,7 @@
 /*																	*/
 /*							 图书馆管理系统							*/
 /*																	*/
-/*												<> with ♥ by 董岳	*/
+/*												<> with ♥ by 董岳 (dy55)	*/
 /*												  学号：2018204788	*/
 /*																	*/
 /*											   Qingdao University	*/
@@ -22,7 +22,18 @@
 //		 5-17, 5-18, 5-20											//
 //////////////////////////////////////////////////////////////////////
 
-
+/*
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 
 //库头文件引用声明
 #include<stdio.h>
@@ -145,3 +156,14 @@ int main() {
 		}
 	}
 }
+
+/*
+ *
+ *
+ *
+ *
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ */

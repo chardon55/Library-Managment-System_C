@@ -1,10 +1,23 @@
 ﻿#pragma once
 //						界面头文件					//
-//								<> with ♥ by 董岳	//
+//								<> with ♥ by 董岳 (dy55)	//
 //	2019-4-26(Separated from Misc.h), 5-1, 5-4, 5-13
 
 /*	Originally from Structure.h	*/
 /*	Former: Framework_Define.h (Until 2019-5-1)	*/
+
+/*
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 
 #define PADDING_TOP printf("\n\n")														//顶部补白
 #define HORIZONTAL_LINE_TOP printf("┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n")	//上框线
@@ -108,3 +121,15 @@ short _Confirm_Frame(const char prompt[]) {
 		}
 	}
 }
+
+
+/*
+ *
+ *
+ *
+ *
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ */

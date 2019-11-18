@@ -2,10 +2,23 @@
 //////////////////////////////////////////////////////////////////
 //																//
 //						借书还书登记模块							//
-//											<> with ♥ by 董岳	//
+//											<> with ♥ by 董岳 (dy55)	//
 //////////////////////////////////////////////////////////////////
 //	2019-4-24, 4-26, 4-27, 4-28, 4-29, 4-30, 5-4, 5-5, 5-13, 5-18,
 //		5-20
+
+/*
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 
 
 extern long long Books_Type_Stock;
@@ -282,3 +295,14 @@ void Borrow_Return_main() {
 			}
 		}
 }
+
+/*
+ *
+ *
+ *
+ *
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ */

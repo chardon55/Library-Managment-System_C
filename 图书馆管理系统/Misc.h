@@ -1,10 +1,24 @@
 ﻿#pragma once
 //						杂项							//
-//								<> with ♥ by 董岳	//
+//								<> with ♥ by 董岳 (dy55)	//
 //	2019-4-10, 4-14, 4-17, 4-21, 4-26, 4-27, 4-28, 4-29,
 //		5-1, 5-5, 5-9, 5-15, 5-16, 5-18
 
 /*	Former name of the header: Response.h	*/
+
+
+/*
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 
 
 	//版本打印
@@ -171,3 +185,15 @@ char* Num_to_String(int Target, const char* _format) {
 
 	return str_t1;
 }
+
+
+/*
+ *
+ *
+ *
+ *
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ */

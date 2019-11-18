@@ -1,8 +1,22 @@
 ﻿#pragma hdrstop										//	Abandoned
 //					节点结构头文件						//
-//								<> with ♥ by 董岳	//
+//								<> with ♥ by 董岳 (dy55)	//
 //	2019-4-15, 4-17, 4-24, 4-27, 5-1
 
+
+
+/*
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 
 //书类信息节点
 typedef struct BOOK_node_mono {
@@ -109,3 +123,16 @@ void Node_Convert_BOOK(BOOK_INFO* _Destination, BOOK_INFO_NODE* _Source_Node) {
 		Convert_CpyTool_FromNode(&(_Destination[i++]), _Source_Node);
 	return;
 }
+
+
+
+/*
+ *
+ *
+ *
+ *
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ */

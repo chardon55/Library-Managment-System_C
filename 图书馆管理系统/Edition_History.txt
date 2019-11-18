@@ -1,3 +1,9 @@
+ ****************************************************************************
+ * Copyright (c) dy55                                                       *
+ *                                                                          *
+ * 请勿将此项目用于个人课程项目												*
+ * Please do not use this project for your individual / team course project.*
+ ****************************************************************************
 Version History:	1.0		(1904 Coding Edition)
 						1.1.0
 						1.1.1

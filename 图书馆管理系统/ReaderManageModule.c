@@ -2,9 +2,22 @@
 //////////////////////////////////////////////////////////////////
 //																//
 //							读者管理模块							//
-//											<> with ♥ by 董岳	//
+//											<> with ♥ by 董岳 (dy55)	//
 //////////////////////////////////////////////////////////////////
 //	2019-4-22, 4-24, 4-26, 5-1, 5-2, 5-5, 5-8, 5-13, 5-17, 5-18
+
+/*
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 
 extern long long Readers_Sum;
 
@@ -483,3 +496,14 @@ void Readers_Manage_Choice() {
 		}
 	}
 }
+
+/*
+ *
+ *
+ *
+ *
+ * Copyright (c) dy55
+ *
+ * 请勿将此项目用于个人课程项目
+ * Please do not use this project for your individual / team course project.
+ */
