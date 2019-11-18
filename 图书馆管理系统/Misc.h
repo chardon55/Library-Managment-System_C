@@ -57,6 +57,7 @@ void CHOOSE_PLEASE(int* target) {
 #define _ERROR(DETAIL_STRING) printf("错误 ");printf(DETAIL_STRING);putchar('\n')	//错误报告
 #endif // DEBUG_MODE_SWITCH
 
+#if !LOCK
 //倒计时后继续函数
 void Countdown_Continue(short _Countdown_from_sec, const char Prompt_String_Head[], const char Prompt_String_Gear[]) {
 	putchar('\n');
@@ -66,6 +67,7 @@ void Countdown_Continue(short _Countdown_from_sec, const char Prompt_String_Head
 	}
 	putchar('\n');
 }
+#endif
 
 #define _Operation_Complete _CAUTION_FRAME("操作完成");Countdown_Continue(2,"系统将于","继续")	//操作完成
 #define _Operation_Canceled	_CAUTION_FRAME("操作已取消");Countdown_Continue(2,"系统将于","继续")//操作取消

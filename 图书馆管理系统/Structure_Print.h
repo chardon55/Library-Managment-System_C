@@ -17,7 +17,7 @@
  *
  */
 
-
+#if !LOCK
 //净打印函数（图书）
 void Pure_Print_BOOK(BOOK_INFO _item[], int Number) {
 	for (int i = 0; i < Number; i++) {
@@ -51,6 +51,7 @@ void Pure_Print_READER(READER_INFO _item[], int Number) {
 		printf("\n\t\t无信息\n");
 }
 
+#endif
 #define BOOK_PRINT 1		//打印图书信息
 #define READER_PRINT 2		//打印读者信息
 

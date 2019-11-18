@@ -56,6 +56,7 @@ void Content_Print(const char _Content[]) {
 	printf("┃\n");
 }
 
+#if !LOCK
 //界面打印总函数(题目, 退出选项名称, 选项数, 选项名称)
 void Framework_Print_Monitor(const char _Head[], const char _Final_Exit[], const int Choice_Number, ...) {
 	system("cls");	//清屏
@@ -92,6 +93,7 @@ void General_Framework_Print_Monitor(const char _Head[], const int Row_Number, .
 	VERTICAL_LINE;
 	HORIZONTAL_LINE_BOTTOM;
 }
+#endif
 
 //通知框架
 #define _CAUTION_FRAME(PROMPT) General_Framework_Print_Monitor("系统通知",1,PROMPT)

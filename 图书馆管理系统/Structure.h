@@ -33,6 +33,7 @@
 long long Books_Type_Stock = 0;				//书类总数
 long long Readers_Sum = 0;					//读者总数
 
+#if !LOCK
 //书类
 typedef struct BOOK{
 	char Name[NAME_MAXLEN];
@@ -52,6 +53,7 @@ typedef struct READER {
 	int Max_Borrow;
 } READER_INFO;
 
+#endif
 #define _BORROW 1
 #define _RETURN 0
 
