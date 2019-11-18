@@ -1,4 +1,4 @@
-# C language course project (2019 Spring)
+# C language course project (2019 Spring) (Chinese)
 The C language course project during 2019 Spring Semester
 
 
