@@ -59,8 +59,6 @@
 
 #endif
 
-#define LOCK 1
-
 #define Framework_WIDTH 44		//	界面宽度
 
 //自定义头文件引用声明
@@ -116,7 +114,6 @@ void file_Init() {
 	Countdown_Continue(2, "系统将于", "启动");
 }
 
-#if !LOCK
 //主函数
 int main() {
 	file_Init();
@@ -158,7 +155,6 @@ int main() {
 		}
 	}
 }
-#endif
 
 /*
  *
