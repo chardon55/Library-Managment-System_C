@@ -1,5 +1,5 @@
-# C language semester project (2019 Spring) (Chinese)
-The C language course semester project during 2019 Spring Semester
+# C language Semester Project (2019 Spring) (Chinese)
+The C language course semester project during 2019 Spring semester
 
 |  |  |
 | ---: | :--- |
