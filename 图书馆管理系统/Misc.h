@@ -4,23 +4,6 @@
 //	2019-4-10, 4-14, 4-17, 4-21, 4-26, 4-27, 4-28, 4-29,
 //		5-1, 5-5, 5-9, 5-15, 5-16, 5-18
 
-/*	Former name of the header: Response.h	*/
-
-
-/*
- * Copyright (c) dy55
- *
- * 请勿将此项目用于个人课程项目
- * Please do not use this project for your individual / team course project.
- *
- *
- *
- *
- *
- *
- */
-
-
 	//版本打印
 void Edition_print() {
 	printf("Version: ");
@@ -56,7 +39,6 @@ void CHOOSE_PLEASE(int* target) {
 #define _ERROR(DETAIL_STRING) printf("错误 ");printf(DETAIL_STRING);putchar('\n')	//错误报告
 #endif // DEBUG_MODE_SWITCH
 
-#if !LOCK
 //倒计时后继续函数
 void Countdown_Continue(short _Countdown_from_sec, const char Prompt_String_Head[], const char Prompt_String_Gear[]) {
 	putchar('\n');
@@ -66,7 +48,6 @@ void Countdown_Continue(short _Countdown_from_sec, const char Prompt_String_Head
 	}
 	putchar('\n');
 }
-#endif
 
 #define _Operation_Complete _CAUTION_FRAME("操作完成");Countdown_Continue(2,"系统将于","继续")	//操作完成
 #define _Operation_Canceled	_CAUTION_FRAME("操作已取消");Countdown_Continue(2,"系统将于","继续")//操作取消
@@ -186,15 +167,3 @@ char* Num_to_String(int Target, const char* _format) {
 
 	return str_t1;
 }
-
-
-/*
- *
- *
- *
- *
- * Copyright (c) dy55
- *
- * 请勿将此项目用于个人课程项目
- * Please do not use this project for your individual / team course project.
- */

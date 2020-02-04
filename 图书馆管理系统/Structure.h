@@ -4,20 +4,6 @@
 //	2019-4-10, 4-11, 4-24, 4-27, 5-2, 5-5, 5-9, 5-15
 
 
-/*
- * Copyright (c) dy55
- *
- * 请勿将此项目用于个人课程项目
- * Please do not use this project for your individual / team course project.
- *
- *
- *
- *
- *
- *
- */
-
-
 #define NAME_MAXLEN 50					//书名最大长度
 #define PEOPLE_NAME_MAXLEN 30			//姓名最大长度
 #define PUBLISHER_MAXLEN 30				//出版商名称最大长度
@@ -33,7 +19,6 @@
 long long Books_Type_Stock = 0;				//书类总数
 long long Readers_Sum = 0;					//读者总数
 
-#if !LOCK
 //书类
 typedef struct BOOK{
 	char Name[NAME_MAXLEN];
@@ -53,7 +38,6 @@ typedef struct READER {
 	int Max_Borrow;
 } READER_INFO;
 
-#endif
 #define _BORROW 1
 #define _RETURN 0
 
@@ -203,15 +187,3 @@ char* Custom_Datetime_Generator(time_t _target) {
 	strcat(t_datetime, Num_to_String(time_bunch.tm_sec, "02"));
 	return t_datetime;
 }
-
-
-/*
- *
- *
- *
- *
- * Copyright (c) dy55
- *
- * 请勿将此项目用于个人课程项目
- * Please do not use this project for your individual / team course project.
- */

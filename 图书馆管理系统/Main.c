@@ -22,19 +22,6 @@
 //		 5-17, 5-18, 5-20											//
 //////////////////////////////////////////////////////////////////////
 
-/*
- * Copyright (c) dy55
- *
- * 请勿将此项目用于个人课程项目
- * Please do not use this project for your individual / team course project.
- *
- *
- *
- *
- *
- *
- */
-
 //库头文件引用声明
 #include<stdio.h>
 #include<stdlib.h>
@@ -68,9 +55,9 @@
 
 #include"Structure.h"			//	结构定义头文件
 #include"Structure_Print.h"		//	结构输出头文件
-#if 0	//	Abandoned ->
+#if 0	//	Deprecated ->
 #include"Node_Structure.h"		//	节点结构头文件
-#endif	//	<- Abandoned
+#endif	//	<- Deprecated
 
 //源引用声明
 #include"BookManageModule.c"	//	图书管理模块源
@@ -155,14 +142,3 @@ int main() {
 		}
 	}
 }
-
-/*
- *
- *
- *
- *
- * Copyright (c) dy55
- *
- * 请勿将此项目用于个人课程项目
- * Please do not use this project for your individual / team course project.
- */

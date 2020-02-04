@@ -4,20 +4,6 @@
 //	2019-4-15, 4-21, 4-27, 4-28, 5-5, 5-8, 5-15
 
 
-/*
- * Copyright (c) dy55
- *
- * 请勿将此项目用于个人课程项目
- * Please do not use this project for your individual / team course project.
- *
- *
- *
- *
- *
- *
- */
-
-#if !LOCK
 //净打印函数（图书）
 void Pure_Print_BOOK(BOOK_INFO _item[], int Number) {
 	for (int i = 0; i < Number; i++) {
@@ -51,7 +37,6 @@ void Pure_Print_READER(READER_INFO _item[], int Number) {
 		printf("\n\t\t无信息\n");
 }
 
-#endif
 #define BOOK_PRINT 1		//打印图书信息
 #define READER_PRINT 2		//打印读者信息
 
@@ -269,15 +254,3 @@ void Selected_Print_Log(FILE* fp, BOOK_INFO* _book, READER_INFO* _reader) {
 		printf("\n\t\t共%ld条日志信息\n", log_count);
 	}
 }
-
-
-/*
- *
- *
- *
- *
- * Copyright (c) dy55
- *
- * 请勿将此项目用于个人课程项目
- * Please do not use this project for your individual / team course project.
- */

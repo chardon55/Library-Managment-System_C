@@ -6,19 +6,6 @@
 //	2019-5-5, 5-8, 5-18
 
 
-/*
- * Copyright (c) dy55
- *
- * 请勿将此项目用于个人课程项目
- * Please do not use this project for your individual / team course project.
- *
- *
- *
- *
- *
- *
- */
-
 extern long long Books_Type_Stock;
 extern long long Readers_Sum;
 
@@ -88,15 +75,3 @@ void Advanced_Settings() {
 		}
 	}
 }
-
-
-/*
- *
- *
- *
- *
- * Copyright (c) dy55
- *
- * 请勿将此项目用于个人课程项目
- * Please do not use this project for your individual / team course project.
- */
