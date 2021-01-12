@@ -4,7 +4,7 @@ The C language course semester project during 2019 Spring semester
 |  |  |
 | ---: | :--- |
 | Project Name | Library Management System |
-| Developer | dy55 |
+| Developer | chardon |
 | Written in | C |
 | Environment | Visual Studio Community 2019 |
 | Compiler | MSVC |
